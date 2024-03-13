@@ -6,7 +6,7 @@ Gestion de valeurs manquantes et aberrantes d'une base de données non-massives 
 
 Analyse d'une base de données massives déstructurées (Utilisation de Spark) adaptée à une problématique définie.
 
-Projets:
+### Projets:
 
 -SpeedDating
 -Steam
